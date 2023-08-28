@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://paolodibello.github.io/contactmanager_redux",
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "bootstrap": "^4.1.2",
     "classnames": "^2.2.6",
     "react": "^16.4.1",
