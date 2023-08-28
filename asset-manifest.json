@@ -1,6 +1,13 @@
 {
-  "main.css": "static/css/main.1129e1b9.css",
-  "main.css.map": "static/css/main.1129e1b9.css.map",
-  "main.js": "static/js/main.dc059b4b.js",
-  "main.js.map": "static/js/main.dc059b4b.js.map"
+  "files": {
+    "main.css": "/contactmanager_redux/static/css/main.4169f80c.css",
+    "main.js": "/contactmanager_redux/static/js/main.9528fb06.js",
+    "index.html": "/contactmanager_redux/index.html",
+    "main.4169f80c.css.map": "/contactmanager_redux/static/css/main.4169f80c.css.map",
+    "main.9528fb06.js.map": "/contactmanager_redux/static/js/main.9528fb06.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4169f80c.css",
+    "static/js/main.9528fb06.js"
+  ]
 }
