@@ -122,7 +122,7 @@ const mapStateToProps = state => ({
 });
 
 EditContact.propTypes = {
-  contact: PropTypes.object.isRequired,
+  contact: PropTypes.array.isRequired,
   getContact: PropTypes.func.isRequired
 }
 
